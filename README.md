@@ -1,6 +1,6 @@
 # PBMNet
 ## Trabalho da Matéria de Fundamentos de Data Science - FGV
 
-##Equipe:
+## Equipe:
 * Davi Sales Barreira
 * Franklin Oliveira
