@@ -31,3 +31,12 @@ average number of publication per researcher.
 * Generate a co-authorship network and study the properties of such network,
 as the number of edges, degree distribution, number of connected components,
 average shortest path.
+
+## Graph-Tool:
+In this repository, to create the images of the co-authorship networks
+and estimate some parameters of the network, we used
+[**graph-tool**](https://graph-tool.skewed.de/), a library for efficient
+graph analysis. Note that this library uses C++ to do the heavy lifting,
+therefore it needs to be compiled before using (which can take up to 4 hours).
+The installation steps are present in the official website for the library.
+
