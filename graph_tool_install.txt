@@ -1,0 +1,8 @@
+This repository uses the library graph-tool, which has some requirements such as:
+libboost,
+sudo apt-get install libgmp3-dev
+sudo apt-get install libmpfr-dev
+sudo apt-get install libcairomm-1.0-dev
+sudo apt-get install libsparsehash-dev
+pip install pyramid
+#Completar
