@@ -5,4 +5,5 @@ sudo apt-get install libmpfr-dev
 sudo apt-get install libcairomm-1.0-dev
 sudo apt-get install libsparsehash-dev
 pip install pyramid
-#Completar
+
+# After this, you should install graph-tool as described in their website.

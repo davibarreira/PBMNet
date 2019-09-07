@@ -1,2 +1,10 @@
 INFO:root:6778809047429890 - SUCESSO
 INFO:root:0289400810360557 - SUCESSO
+INFO:root:6778809047429890 - SUCESSO
+INFO:root:0289400810360557 - SUCESSO
+ERROR:root:Invalid alias: The name clear can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name more can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name less can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name man can't be aliased because it is another magic command.
+INFO:root:6778809047429890 - SUCESSO
+INFO:root:0289400810360557 - SUCESSO
