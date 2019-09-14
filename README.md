@@ -39,7 +39,7 @@ We are Brazilian math students, do we need to say more?! Learning about the math
 
 ### 1) [Example_Data_Scraping](Example_Data_Scraping.ipynb)
 This is an example of the method we used to extract the cvs from Plataforma Lattes. The whole extraction takes more
-than a day.
+than a day. The scripts for extraction are in the "data_scraping" folder.
 
 ### 2) [Create_DB_in_Mongo](Create_DB_in_Mongo.ipynb)
 The name is self-explanatory, this notebook 
