@@ -66,7 +66,8 @@ In the file *requirements.txt* there are some non-standard libraries
 that you will need in order to run the notebook. We left out the more
 standard ones, such as numpy and matplolib. In case of running into missing
 libraries, just install them. If you encounter some problem with version
-compatibility, just contact us and we will provide the versions that were
+compatibility for some library that was not in the requirementes.txt file
+, just contact us and we will provide the versions that were
 used.
 
 Other than Python libraries, one needs to install both Graph-Tool and MongoDB. We also suggest installing MongoDB Compass, a free GUI for MongoDB.
@@ -78,6 +79,7 @@ and estimate some parameters of the network, we used
 graph analysis. Note that this library uses C++ to do the heavy lifting,
 therefore it needs to be compiled before using (which can take up to 4 hours).
 The installation steps are present in the official website for the library.
+In this project we use the version *2.29*.
 
 ## ABOUT THE DATA:
 Plataforma Lattes is a public platform owned by the Brazilian government and is freely available to anyone who has the patience to go through the CAPTCHA and collect it. The raw cv's were in .xml format and were turned into json through python, thus feeding a MongoDB database. Using MonogoDB, we created two main dataframes, one with information regarding the researchers and another one related to the published papers.
